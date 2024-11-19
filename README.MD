@@ -42,5 +42,3 @@ O **Projeto Objetos Inteligentes** é uma aplicação IoT que consiste em:
 - **node-red-dashboard**
 - **MQTT Broker**: [HiveMQ](https://www.hivemq.com/)
 
-## Estrutura do Projeto
-
