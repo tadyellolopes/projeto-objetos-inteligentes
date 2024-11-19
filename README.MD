@@ -1,6 +1,5 @@
 # Projeto Objetos Inteligentes
 
-![Banner do Projeto](https://i.imgur.com/qvQmnEu.png)
 
 Este projeto simula a publicação de dados de temperatura e umidade via MQTT utilizando um script Python (`simulador_esp32.py`) e visualiza os dados em tempo real através do Node-RED Dashboard. Além disso, permite enviar comandos para ligar e desligar dispositivos simulados diretamente pelo dashboard.
 
