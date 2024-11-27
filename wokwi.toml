@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+elf = "monitoramento.elf"
+firmware = "monitoramento.bin"
